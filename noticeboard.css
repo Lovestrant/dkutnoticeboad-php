@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(49, 73, 47);
+}
+#samp{
+    background-color: green;
+    width: 100%;
+    margin-left: 0%;
+ max-width: 140%;
+ text-align: center;
+}
+#mainhearder{
+    color: white;
+}
+.sidenav{
+    font-size: 20px;
+   
+}
+a{
+    margin-right: 10%;
+    color: red
+}
+.divpost{
+    background-color: rgb(228, 176, 208);
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
